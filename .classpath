@@ -6,8 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/testNG/mysql-connector-j-8.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/testNG/selenium-java-4.17.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Grid/selenium-server-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Jar/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/eclipse-workspace/Jar/testng-7.9.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
